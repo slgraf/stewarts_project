@@ -9,5 +9,5 @@ class Home:
 
       #Home.homeCount += homeCount
 
-   #def updateFromAPI(self):
+   def apicall(self):
       #assign data pulled from api call
